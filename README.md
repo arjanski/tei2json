@@ -1,5 +1,5 @@
 # TEI2JSON
-📁 Batch transform/edit TEI XML files to JSON (and CSV) using [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/index.html) and [Pandas](https://pandas.pydata.org/) for further (data science) processing, then serve output via REST API using [FastAPI](https://fastapi.tiangolo.com/).
+📁 Batch transform TEI XML files to JSON (and CSV) using [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/index.html), edit with [Pandas](https://pandas.pydata.org/) for further (data science) processing, then serve output via REST API using [FastAPI](https://fastapi.tiangolo.com/).
 
 TEI2JSON is a fork of [teitocsv](https://github.com/komax/teitocsv), yet adding some additional functionality while stripping other features:
 
